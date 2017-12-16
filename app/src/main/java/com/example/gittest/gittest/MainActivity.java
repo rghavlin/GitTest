@@ -7,6 +7,8 @@ public class MainActivity extends AppCompatActivity {
     String gitCommit1;
     String gitCommit2;
     String gitCommit3;
+    // branch 2
+    String gitCommitBranch2_1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
