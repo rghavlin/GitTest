@@ -6,6 +6,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
     String gitCommit1;
     String gitCommit2;
+    String gitCommit3;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
